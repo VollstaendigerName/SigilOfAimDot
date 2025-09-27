@@ -7,15 +7,15 @@ A minimalist dot-style crosshair replacement for Elder Scrolls Online. This addo
 
 - Dynamic color and scale changes based on player state:
 
-- Stealth: Transparent white
+  - Stealth: Transparent white
 
-- Combat: Bright red
+  - Combat: Bright red
 
-- Swimming/Falling: Blue or off-white with enlarged scale
+  - Swimming/Falling: Blue or off-white with enlarged scale
 
-- Targeting: Orange-red (attackable) or orange-yellow (interactable)
+  - Targeting: Orange-red (attackable) or orange-yellow (interactable)
 
-- Dead/Stunned/Disguised: Black or transparent variants
+  - Dead/Stunned/Disguised: Black or transparent variants
 
 - Automatically hides in mouse mode and shows in gamepad mode
 
